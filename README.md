@@ -1,3 +1,12 @@
+---
+title: Instareplier
+emoji: ⚡
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
+
 # InstaReply — Instagram Comment-to-DM Automation
 
 A self-hosted ManyChat-style tool. When someone comments a keyword on a tracked Instagram post, InstaReply automatically **replies to the comment** AND **sends them a private DM** — all via the official Instagram Graph API.
